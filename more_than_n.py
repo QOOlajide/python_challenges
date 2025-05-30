@@ -9,6 +9,6 @@ def more_than_n(my_list, item, n):
   if count > n:
     return True
   return False
-
+#Bruh, there's literally a count function whereby you can easily find out how many times an item is present within a list! You just broke it down to the core!
 # Uncomment the line below when your function is done
 print(more_than_n([2, 4, 6, 2, 3, 2, 1, 2], 2, 3))
